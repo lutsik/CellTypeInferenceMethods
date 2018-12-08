@@ -17,7 +17,7 @@ Implementation: [CETS project on r-forge (R)](http://cets.r-forge.r-project.org)
 Reference: [PMID 28517979](https://www.ncbi.nlm.nih.gov/pubmed/28517979)
 Implementation: [EpiDISH (R, Bioc)](https://bioconductor.org/packages/release/bioc/html/EpiDISH.html)
 
-### Methods for the optimal search of the cell type-specific CpGs sets
+### Methods for the optimal search of the cell type-specific CpG libraries
 
 * **IDOL**  
 Reference: [PMID 26956433](https://www.ncbi.nlm.nih.gov/pubmed/26956433)  
@@ -43,7 +43,7 @@ Implementation: [web-site (python, R)](https://www.cs.tau.ac.il/~heran/cozygene/
 
 * **RefFreeCellMix**  
 Reference: [PMID 27358049](https://www.ncbi.nlm.nih.gov/pubmed/27358049)  
-Implementation: [R package RefFreeEWAS](https://cran.r-project.org/package=RefFreeEWAS)  
+Implementation: [RefFreeEWAS (R,CRAN)](https://cran.r-project.org/package=RefFreeEWAS)  
 
 * **MeDeCom**  
 Reference: [PMID 28340624](https://www.ncbi.nlm.nih.gov/pubmed/28340624)  
