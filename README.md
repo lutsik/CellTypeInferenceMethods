@@ -23,6 +23,10 @@ Implementation: [EpiDISH (R, Bioc)](https://bioconductor.org/packages/release/bi
 Reference: [PMID 26956433](https://www.ncbi.nlm.nih.gov/pubmed/26956433)  
 Implementation: unknown  
 
+* **MethylCIBERSORT**  
+Reference: [PMID 30104673](https://www.ncbi.nlm.nih.gov/pubmed/30104673)  
+Implementation: [R package (Zenodo)](https://zenodo.org/record/1298968#.XAxXqS2ZMWo)
+
 ## Reference-free methods
 
 ### Reference-free methods for the correction of differential methylation analysis
