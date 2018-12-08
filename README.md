@@ -7,15 +7,15 @@ A public list of computational methods for cell type inference based on genome-s
 ### Conceptually new reference-based estimation methods  
 * **Constrained projection method by Houseman et al.**  
 Reference: [PMID 22568884](https://www.ncbi.nlm.nih.gov/pubmed/22568884)  
-Implementations: [methylSpectrum](http://people.oregonstate.edu/~housemae/software/Houseman-2012-BMCBioinformatics-Software-v112.zip), [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html), [RnBeads](https://www.bioconductor.org/packages/release/bioc/html/RnBeads.html)  
+Implementations: [methylSpectrum (R, script)](http://people.oregonstate.edu/~housemae/software/Houseman-2012-BMCBioinformatics-Software-v112.zip), [minfi (R, BioC)](https://bioconductor.org/packages/release/bioc/html/minfi.html), [RnBeads (R, BioC)](https://www.bioconductor.org/packages/release/bioc/html/RnBeads.html)  
 
 * **Cell epigenotype-specific (CETS) model**  
 Reference: [PMID 23426267](https://www.ncbi.nlm.nih.gov/pubmed/23426267)  
-Implementation: [CETS project on r-forge](http://cets.r-forge.r-project.org)  
+Implementation: [CETS project on r-forge (R)](http://cets.r-forge.r-project.org)  
 
 * **EpiDISH**  
-Reference:  
-Implementation:  
+Reference: [PMID 28517979](https://www.ncbi.nlm.nih.gov/pubmed/28517979)
+Implementation: [EpiDISH (R, Bioc)](https://bioconductor.org/packages/release/bioc/html/EpiDISH.html)
 
 ### Methods for the optimal search of the cell type-specific CpGs sets
 
@@ -29,15 +29,15 @@ Implementation: unknown
 
 * **FaST-LMM-EWASHer**  
 Reference: [PMID 24464286](https://www.ncbi.nlm.nih.gov/pubmed/24464286)  
-Implementation: [R package](https://www.microsoft.com/en-us/download/details.aspx?id=52501)   
+Implementation: [FaST-LMM-EWASHer (R)](https://www.microsoft.com/en-us/download/details.aspx?id=52501)   
 
 * **RefFreeEWAS**  
 Reference: [PMID 24451622](https://www.ncbi.nlm.nih.gov/pubmed/24451622)  
-Implementation: [R package RefFreeEWAS](https://cran.r-project.org/package=RefFreeEWAS)  
+Implementation: [RefFreeEWAS (R, CRAN)](https://cran.r-project.org/package=RefFreeEWAS)  
 
 * **ReFACTor**  
 Reference: [PMID 27018579](https://www.ncbi.nlm.nih.gov/pubmed/27018579)  
-Implementation: [web-site](https://www.cs.tau.ac.il/~heran/cozygene/software/refactor.html)  
+Implementation: [web-site (python, R)](https://www.cs.tau.ac.il/~heran/cozygene/software/refactor.html)  
 
 ### Reference-free deconvolution methods
 
@@ -47,7 +47,7 @@ Implementation: [R package RefFreeEWAS](https://cran.r-project.org/package=RefFr
 
 * **MeDeCom**  
 Reference: [PMID 28340624](https://www.ncbi.nlm.nih.gov/pubmed/28340624)  
-Implementation: [R package on GitHub](https://github.com/lutsik/MeDeCom)  
+Implementation: [MeDeCom (R, GitHub)](https://github.com/lutsik/MeDeCom)  
 
 
 # Benchmarking studies
