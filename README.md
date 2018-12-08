@@ -41,7 +41,7 @@ Implementation: [RefFreeEWAS (R, CRAN)](https://cran.r-project.org/package=RefFr
 
 * **ReFACTor**  
 Reference: [PMID 27018579](https://www.ncbi.nlm.nih.gov/pubmed/27018579)  
-Implementation: [web-site (python, R)](https://www.cs.tau.ac.il/~heran/cozygene/software/refactor.html)  
+Implementations: [ReFACTor (R,MATLAB)](https://www.cs.tau.ac.il/~heran/cozygene/software/refactor.html), [GLINT (python)](https://glint-epigenetics.readthedocs.io/en/latest/), 
 
 ### Reference-free deconvolution methods
 
