@@ -14,7 +14,7 @@ Reference: [PMID 23426267](https://www.ncbi.nlm.nih.gov/pubmed/23426267)
 Implementation: [CETS project on r-forge (R)](http://cets.r-forge.r-project.org)  
 
 * **EpiDISH**  
-Reference: [PMID 28517979](https://www.ncbi.nlm.nih.gov/pubmed/28517979)
+Reference: [PMID 28517979](https://www.ncbi.nlm.nih.gov/pubmed/28517979)  
 Implementation: [EpiDISH (R, Bioc)](https://bioconductor.org/packages/release/bioc/html/EpiDISH.html)
 
 ### Methods for the optimal search of the cell type-specific CpG libraries
@@ -50,5 +50,5 @@ Reference: [PMID 28340624](https://www.ncbi.nlm.nih.gov/pubmed/28340624)
 Implementation: [MeDeCom (R, GitHub)](https://github.com/lutsik/MeDeCom)  
 
 
-# Benchmarking studies
+# Benchmarking studies  
 * https://www.ncbi.nlm.nih.gov/pubmed/28410574
