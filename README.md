@@ -49,6 +49,10 @@ Implementations: [ReFACTor (R,MATLAB)](https://www.cs.tau.ac.il/~heran/cozygene/
 Reference: [PMID 27358049](https://www.ncbi.nlm.nih.gov/pubmed/27358049)  
 Implementation: [RefFreeEWAS (R,CRAN)](https://cran.r-project.org/package=RefFreeEWAS)  
 
+* **EDec**  
+Reference: [PMID 27851969](https://www.ncbi.nlm.nih.gov/pubmed/27851969)  
+Implementation: [EDec (R, GitHub)](https://github.com/BRL-BCM/EDec)  
+
 * **MeDeCom**  
 Reference: [PMID 28340624](https://www.ncbi.nlm.nih.gov/pubmed/28340624)  
 Implementation: [MeDeCom (R, GitHub)](https://github.com/lutsik/MeDeCom)  
