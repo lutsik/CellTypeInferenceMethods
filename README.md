@@ -60,3 +60,4 @@ Implementation: [MeDeCom (R, GitHub)](https://github.com/lutsik/MeDeCom)
 
 # Benchmarking studies  
 * https://www.ncbi.nlm.nih.gov/pubmed/28410574
+* https://www.biorxiv.org/content/10.1101/570457v1.abstract
