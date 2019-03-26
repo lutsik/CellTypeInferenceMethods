@@ -58,6 +58,7 @@ Reference: [PMID 28340624](https://www.ncbi.nlm.nih.gov/pubmed/28340624)
 Implementation: [MeDeCom (R, GitHub)](https://github.com/lutsik/MeDeCom)  
 
 
-# Benchmarking studies  
+# Benchmarking studies
 * https://www.ncbi.nlm.nih.gov/pubmed/28410574
 * https://www.biorxiv.org/content/10.1101/570457v1.abstract
+* https://www.ncbi.nlm.nih.gov/pubmed/30571772
